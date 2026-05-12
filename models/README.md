@@ -134,7 +134,6 @@ requests
 matplotlib
 seaborn
 scikit-learn
-xgboost
 flask
 ```
 
@@ -146,15 +145,10 @@ flask
 |---|---|---|
 | Week 1 | Data Collection + EDA | ✅ Complete |
 | Week 2 | Preprocessing + Feature Engineering | 🔄 Upcoming |
-| Week 3 | ML Modeling (Random Forest, XGBoost) | 🔄 Upcoming |
-| Week 4 | GenAI Integration + Flask App | 🔄 Upcoming |
 
 ---
 
-## 👥 Team
 
-- **Person 1** — Data Collection, EDA, Preprocessing, Logistic Regression Baseline
-- **Person 2** — Advanced Modeling (Random Forest, XGBoost), Model Evaluation, SHAP, Flask App
 
 ---
 
