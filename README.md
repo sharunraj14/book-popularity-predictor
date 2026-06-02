@@ -362,12 +362,6 @@ pip install pandas numpy requests matplotlib seaborn scikit-learn xgboost stream
 
 ---
 
-## 👥 Team
-
-- **Person 1** — Data Collection, EDA, Preprocessing, Logistic Regression Baseline
-- **Person 2** — Advanced Modeling (Random Forest, XGBoost), Model Evaluation, Streamlit App
-
----
 
 ## 📌 Data Source
 
